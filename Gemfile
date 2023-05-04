@@ -17,6 +17,8 @@ gem 'sassc-rails', '>= 2.1.0'
 # The original asset pipeline for Rails [https://github.com/rails/sprockets-rails]
 gem "sprockets-rails"
 
+gem 'acts_as_votable', '~> 0.11.1'
+
 # Use sqlite3 as the database for Active Record
 gem "sqlite3", "~> 1.4"
 
